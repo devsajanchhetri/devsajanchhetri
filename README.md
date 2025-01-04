@@ -4,9 +4,8 @@ Hey there! I'm **Sajan Chhetri**, a passionate Full Stack Developer, SEO enthusi
 
 ## 🚀 Who Am I?
 
-- **Frontend Developer** at [Eadlux](https://eadlux.com) 🌟
-- **Full Stack Developer** at [ZenAxe](https://zenaxe.com) ⚙️
-- Founder of [ZenBooks](https://ebooks.zenaxe.online) 📚
+- **Founder & Full Stack Developer** at [ZenAxe](https://zenaxe.com) ⚙️
+- Developer of [ZenBooks](https://ebooks.zenaxe.online) 📚
 - **SEO Consultant** helping brands grow online 📈
 
 With a background in both **web development** and **SEO**, I bring a holistic approach to every project. From the first line of code to driving organic traffic, I’m your go-to developer.
