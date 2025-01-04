@@ -1,53 +1,55 @@
-# **Sajan Chhetri's Developer Playground**https://github.com/devsajanchhetri/devsajanchhetri/blob/main/README.md
-Welcome to my GitHub repository! Here you'll find a collection of my projects, code snippets, and experiments. From full-stack web development to advanced SEO optimizations, it's all here.
+# 👨‍💻 Sajan Chhetri - Full Stack Developer | SEO Expert | Creator of ZenBooks
 
-> **"The code that is the hardest to write is often the one that changes everything."**  
-> – Sajan Chhetri
+Hey there! I'm **Sajan Chhetri**, a passionate Full Stack Developer, SEO enthusiast, and the creator of **ZenBooks**, a platform for free ebooks. I love creating digital experiences that are both functional and elegant. Whether it's building websites or optimizing content, I'm always focused on crafting the best user experiences.
 
----
+## 🚀 Who Am I?
 
-### **About Me**
+- **Frontend Developer** at [Eadlux](https://eadlux.com) 🌟
+- **Full Stack Developer** at [ZenAxe](https://zenaxe.com) ⚙️
+- Founder of [ZenBooks](https://ebooks.zenaxe.online) 📚
+- **SEO Consultant** helping brands grow online 📈
 
-I’m **Sajan Chhetri**, a passionate **Full Stack Developer** with a knack for building elegant, efficient solutions. I’m also the founder of **ZenBooks**, a free platform for eBooks that aims to provide high-quality educational resources to the community. When I’m not coding, I’m exploring new tech and sharing my findings with fellow developers.
+With a background in both **web development** and **SEO**, I bring a holistic approach to every project. From the first line of code to driving organic traffic, I’m your go-to developer.
 
-- **Skills:**
-  - **Languages:** HTML, CSS, JavaScript, PHP
-  - **Frameworks/Tools:** React, Node.js, Laravel, WordPress, Vue.js
-  - **Others:** SEO, UI/UX Design, Full-Stack Development, Server Management
+## 🛠 Skills & Technologies
 
----
+- **Frontend**: HTML5, CSS3, JavaScript, React.js
+- **Backend**: PHP, Node.js
+- **SEO**: On-Page Optimization, Keyword Research, Analytics
+- **Version Control**: Git, GitHub
+- **Tools**: Composer, Docker, VS Code, Nginx
 
-### **Key Projects**
+## 📈 Projects
 
-#### **ZenBooks**
-- **Description:** A **free eBooks platform** offering educational and self-improvement resources to users around the world. Dive into the digital library at [ebooks.zenaxe.online](http://ebooks.zenaxe.online).
-  
-#### **Eadlux Website**
-- **Description:** A modern web solution for Eadlux, providing services in digital marketing and web development.  
-- **Link:** [eadlux.com](http://eadlux.com)
+### **ZenBooks** 📚
+- **Role**: Founder & Developer
+- **Description**: ZenBooks is a free ebook platform that allows readers to access a wide variety of ebooks. It's my passion project where I combine tech with my love for reading.
+- [Visit ZenBooks](https://ebooks.zenaxe.online)
 
-#### **Upstream Engineering Consultants Website**
-- **Description:** A specialized platform for Upstream Engineering Consultants, providing industry-specific services.  
-- **Link:** [upstream.com.np](http://upstream.com.np)
+### **Eadlux Website** 🌍
+- **Role**: Frontend Developer
+- **Description**: A modern, responsive website for **Eadlux**, a leading tech company. I was responsible for making the site smooth, interactive, and mobile-friendly.
+- [Visit Eadlux](https://eadlux.com)
 
----
+### **Upstream Engineering Consultants** 🏗️
+- **Role**: Full Stack Developer
+- **Description**: A professional website for **Upstream Engineering**, where I worked on both the frontend and backend to provide a seamless client experience.
+- [Visit Upstream](https://upstream.com.np)
 
-### **Projects & Repos**
+## 📬 Services
 
-- **Full Stack Development Projects:**  
-  Check out my repository of full-stack applications, ranging from front-end single-page apps to back-end APIs and database integration.
+- **Web Development**: From landing pages to complex web applications, I create websites that look great and perform even better.
+- **SEO Consulting**: Improve your website's search engine ranking and visibility to attract more organic traffic.
 
-- **SEO Optimization Scripts:**  
-  I also contribute to SEO projects aimed at improving website rankings and traffic, including tools and analytics.
+## 🚀 Let's Work Together!
 
-- **Custom PHP Solutions:**  
-  I’ve built several custom PHP scripts for handling everything from contact forms to API integrations.
+- 📧 Email: [info@sajanchhetri.com.np](mailto:info@sajanchhetri.com.np)
+- 📱 Phone: +977 9745280405
+- 🌍 Website: [sajanchhetri.co.np](https://sajanchhetri.co.np)
 
----
+## 📝 How to Get Started
 
-### **Installation Instructions**
+Clone this repository to check out my work and see how I approach development:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SajanChhetri/my-projects.git
-   cd my-projects
+```bash
+git clone https://github.com/sajanchhetri/portfolio.git
