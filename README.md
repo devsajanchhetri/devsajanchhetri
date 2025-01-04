@@ -1,4 +1,4 @@
-# **Sajan Chhetri's Developer Playground**
+# **Sajan Chhetri's Developer Playground**https://github.com/devsajanchhetri/devsajanchhetri/blob/main/README.md
 Welcome to my GitHub repository! Here you'll find a collection of my projects, code snippets, and experiments. From full-stack web development to advanced SEO optimizations, it's all here.
 
 > **"The code that is the hardest to write is often the one that changes everything."**  
@@ -8,7 +8,7 @@ Welcome to my GitHub repository! Here you'll find a collection of my projects, c
 
 ### **About Me**
 
-I’m **Sajan Chhetri**, a passionate **Full Stack Developer** with a knack for building elegant, efficient solutions. I’m also the founder of **ZenBooks**, a company focused on offering creative solutions for modern businesses. In my free time, I explore cutting-edge technologies and share my findings with the community.
+I’m **Sajan Chhetri**, a passionate **Full Stack Developer** with a knack for building elegant, efficient solutions. I’m also the founder of **ZenBooks**, a free platform for eBooks that aims to provide high-quality educational resources to the community. When I’m not coding, I’m exploring new tech and sharing my findings with fellow developers.
 
 - **Skills:**
   - **Languages:** HTML, CSS, JavaScript, PHP
@@ -20,15 +20,14 @@ I’m **Sajan Chhetri**, a passionate **Full Stack Developer** with a knack for 
 ### **Key Projects**
 
 #### **ZenBooks**
-- **Description:** A creative platform offering a wide range of digital solutions including web design, e-commerce, and custom software solutions.
-- **Link:** [zenbooks.com](http://zenbooks.com)
-
+- **Description:** A **free eBooks platform** offering educational and self-improvement resources to users around the world. Dive into the digital library at [ebooks.zenaxe.online](http://ebooks.zenaxe.online).
+  
 #### **Eadlux Website**
-- **Description:** A modern web solution for Eadlux, providing services in the digital marketing and web development industries.
+- **Description:** A modern web solution for Eadlux, providing services in digital marketing and web development.  
 - **Link:** [eadlux.com](http://eadlux.com)
 
 #### **Upstream Engineering Consultants Website**
-- **Description:** A specialized platform for Upstream Engineering Consultants, providing industry-specific services.
+- **Description:** A specialized platform for Upstream Engineering Consultants, providing industry-specific services.  
 - **Link:** [upstream.com.np](http://upstream.com.np)
 
 ---
