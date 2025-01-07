@@ -2,7 +2,12 @@
 
 Hey there! I'm **Sajan Chhetri**, a passionate Full Stack Developer, SEO enthusiast, and the creator of **ZenBooks**, a platform for free ebooks. I love creating digital experiences that are both functional and elegant. Whether it's building websites or optimizing content, I'm always focused on crafting the best user experiences.
 
-![Sajan Chhetri Banner](https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub+Profile)
+<p align="left">
+  <img src="https://i.ibb.co/xLvCLbd/face-swap-removebg-preview.png" alt="Sajan Chhetri Banner" width="200px" height="" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0, 255, 255, 1);"/>
+</p>
+
+
+
 
 ## 🚀 Who Am I?
 
@@ -29,22 +34,41 @@ With a background in both **web development** and **SEO**, I bring a holistic ap
 ## 📈 Projects
 
 ### **ZenBooks** 📚
-- **Role**: Founder & Developer
 - **Description**: ZenBooks is a free ebook platform that allows readers to access a wide variety of ebooks. It's my passion project where I combine tech with my love for reading.
 - [Visit ZenBooks](https://ebooks.zenaxe.online)
-- ![ZenBooks](https://via.placeholder.com/400x200?text=ZenBooks+Project)
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; padding: 10px; margin-top: 15px;">
+  <div style="width: 48%; padding: 15px; background: #f0f0f0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>ZenBooks</h3>
+    <p>Free ebook platform for readers to access a variety of ebooks.</p>
+  </div>
+</div>
+
+---
 
 ### **Eadlux Website** 🌍
-- **Role**: Frontend Developer
-- **Description**: A modern, responsive website for **Eadlux**, a leading tech company. I was responsible for making the site smooth, interactive, and mobile-friendly.
+- **Description**: A modern, responsive website for **Eadlux**, a leading tech company. I worked on making the site smooth, interactive, and mobile-friendly.
 - [Visit Eadlux](https://eadlux.com)
-- ![Eadlux Website](https://www.upstream.com.np/assets/img/logo/logo.png)
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; padding: 10px; margin-top: 15px;">
+  <div style="width: 48%; padding: 15px; background: #f0f0f0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>Eadlux Website</h3>
+    <p>Responsive website built for a leading tech company.</p>
+  </div>
+</div>
+
+---
 
 ### **Upstream Engineering Consultants** 🏗️
-- **Role**: Full Stack Developer
-- **Description**: A professional website for **Upstream Engineering**, where I worked on both the frontend and backend to provide a seamless client experience.
+- **Description**: A professional website for **Upstream Engineering**, where I worked on both frontend and backend to provide a seamless client experience.
 - [Visit Upstream](https://upstream.com.np)
-- ![Upstream Engineering Consultants](https://www.upstream.com.np/assets/img/logo/logo.png)
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; padding: 10px; margin-top: 15px;">
+  <div style="width: 48%; padding: 15px; background: #f0f0f0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>Upstream Engineering Consultants</h3>
+    <p>Professional website built to highlight engineering services.</p>
+  </div>
+</div>
 
 ## 📬 Services
 
